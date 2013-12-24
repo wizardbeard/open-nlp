@@ -5,10 +5,6 @@
 *.out
 *.gem
 *.sh
-*.bin
 
-*.xml
 
-*.zip
 
-*.jar
