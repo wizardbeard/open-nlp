@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
 
   s.name        = 'open-nlp'
   s.version     = OpenNLP::VERSION
-  s.authors     = ['Louis Mullie']
-  s.email       = ['louis.mullie@gmail.com']
-  s.homepage    = 'https://github.com/louismullie/open-nlp'
+  s.authors     = ['Louis Mullie', 'Wizard Beard']
+  s.email       = ['louis.mullie@gmail.com','ramonjlongiii@gmail.com']
+  s.homepage    = 'https://github.com/wizardbeard/open-nlp'
   s.summary     = %q{ Ruby bindings to the OpenNLP Java toolkit. }
   s.description = %q{ Ruby bindings to the OpenNLP tools, a Java machine learning toolkit for natural language processing (NLP). }
   
